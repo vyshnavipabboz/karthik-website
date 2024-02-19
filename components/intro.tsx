@@ -9,7 +9,7 @@ import { HiDownload } from "react-icons/hi";
 import { FaGithubSquare } from "react-icons/fa";
 import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
-
+import kphoto from "../public/kphoto.jpg";
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
   const { setActiveSection, setTimeOfLastClick } = useActiveSectionContext();
@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/../public/kphoto.jpg"
+              src="/kphoto.jpg"
               alt="Karthik portrait"
               width="400"
               height="400"
