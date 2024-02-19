@@ -23,7 +23,7 @@ export default function About() {
         <span className="font-medium">
           Machine learning or datascience test
         </span>
-        , I decided to pursue my passion for programming. I enrolled in a coding
+        , I decided to pursue my passion for datascrin. I enrolled in a coding
         bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
