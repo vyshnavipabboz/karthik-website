@@ -19,25 +19,25 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        As a dedicated{" "}
-        <span className="font-medium">Machine learning Engineer</span>
-        with over two years of industrial experience, I am passionate about
-        leveraging cutting-edge technologies to develop innovative solutions
-        that address real-world challenges. Throughtout my career, I have had
-        the privilege to work on a diverse range of products and acadamic
-        projects across various industries, honing my skills in{" "}
+        Ingenious ML Engineer with a master’s degree in engineering data science
+        possessing strong foundation in{" "}
         <span className="font-medium">
-          Data Science, Machine Learning, Deep learning, Reinforcement Learning,
-          Generative AI, and Data analysis.{" "}
+          linear algebra, statistics, probability theory{" "}
         </span>
-        This portfolio not just showcases my experience and projects but also my
-        passion, intent for extracting insights, patterns from data to build
-        reliable products and thus contribute to the Data Science community.
-      </p>
-
-      <p>
-        <span className="italic">When I'm not working</span>, I enjoy playing
-        Badminton, watching movies.
+        and over 3 years of experience in building data driven solutions.
+        Extensively contributed towards the ML community taking up projects and
+        building products in various domains including{" "}
+        <span className="font-medium">
+          Supervised predictive modeling, Time series Forecasting, Clustering,
+          Reinforcement Learning, Deep Learning, CV, NLP, GANs, Generative AI.
+          AWS Certified Developer
+        </span>
+        Associate with strong skills in designing efficient ETL solutions and
+        scalable <span className="font-medium">software development</span> and{" "}
+        <span className="font-medium">CI/CD</span> on cloud. Professional
+        Engineer who can Bridge the gap between complex data and clear action
+        with exceptional collaboration skills and adept at interpreting
+        intricate datasets and translating them into actionable insights.
       </p>
     </motion.section>
   );
